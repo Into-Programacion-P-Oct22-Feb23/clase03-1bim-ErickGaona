@@ -3,20 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejemplo09;
+package ejemplo01;
 
 /**
  *
  * @author SALA I
  */
-public class Ejemplo09 {
-
-    /**
-     * @param args the command line arguments
-     */
+public class Ejemplo02 {
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Ejemplo0");
+        System.out.println("ejemplo02 clase");
     }
     
 }
