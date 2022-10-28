@@ -5,6 +5,8 @@
  */
 package ejemplo03;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author reroes
@@ -16,9 +18,16 @@ public class Ejemplo03 {
      */
     public static void main(String[] args) {
         // Tipos de dato en Java
+        /* 
+        holaaaaa
+        asdas
+        AsdAS
+        DSA
         
+        
+        */
         // Tipo de datos Entero
-        
+       
         int variable1;
         int variable2 = 10;
         int valorInicial = 18;
@@ -45,6 +54,7 @@ public class Ejemplo03 {
         
         boolean variable9 = false;
         boolean variable10 = true;
+         
     }
     
 }
